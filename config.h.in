@@ -1,3 +1,4 @@
+/* test */
 /* Directory settings
  */
 #define CONFIG_DIR  "${CONFIG_DIR}"
